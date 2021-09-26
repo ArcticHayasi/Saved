@@ -1,17 +1,17 @@
 # Site settings
-title: ノート # 博客名称
-description: "其中一窟"
-url:  "https://arctichayasi.github.io/nooto" # 博客地址
+title: 做文章不专心# 博客名称
+description: "前程不想想钗裙"
+url:  "https://arctichayasi.github.io/Saved" # 博客地址
 author:
-  name: "周浦墟" #你的昵称
-  url: "https://arctichayasi.github.io/nooto/" # 博客地址
+  name: "年年由我" #你的昵称
+  url: "https://arctichayasi.github.io/Saved/" # 博客地址
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-archives]
 
 #Pagination
-paginate: 5 # 每页文章数
+paginate: 10 # 每页文章数
 paginate_path: "/page:num/"
 
 #Default layouts
